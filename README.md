@@ -1,22 +1,10 @@
-# {Event name}
+# PyLadies Amsterdam 10-Year Anniversary Celebration
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
-
-### Talk 1 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
-
-### Talk 2 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
+We invite you to celebrate 10 years of PyLadies Amsterdam! Join us to look back at memorable moments through a combination of talks by previous speakers, recordings sent by PyLadies organizers worlwide and socializing with other members.
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://youtube.com/live/4WRS4I6eemI)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams
